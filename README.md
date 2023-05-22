@@ -29,3 +29,8 @@ Os componentes utilizados para construção do circuito foram:
 
 É importante se atentar às voltagens e tensão de operação dos componentes utilizados, principalmente os indicados com *. 
 
+
+*Montagem do Circuito:*
+O circuito com todas as ligações está em anexo no repositório no arquivo circuito.jpg.
+
+
